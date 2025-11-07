@@ -7,3 +7,7 @@ As tarefas desenvolvidas na aula de informática da FATEC no curso de Logística
 
 # Análise COMEXSTAT
 <img width="1440" height="825" alt="image" src="https://github.com/user-attachments/assets/db06b75c-2d0e-4b3b-afb6-5c31c83f6c58" />
+
+
+# Análise restaurantes 
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/3d3c0230-a73e-4c7f-b1c7-e9f968fa39a6" />
