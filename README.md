@@ -11,3 +11,6 @@ As tarefas desenvolvidas na aula de informática da FATEC no curso de Logística
 
 # Análise restaurantes 
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/3d3c0230-a73e-4c7f-b1c7-e9f968fa39a6" />
+
+# Gráfico de regressão linear - Sorvete
+<img width="1440" height="839" alt="image" src="https://github.com/user-attachments/assets/2147472b-464d-4926-95a3-f09b516def0a" />
