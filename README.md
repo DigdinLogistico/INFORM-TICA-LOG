@@ -15,3 +15,6 @@ As tarefas desenvolvidas na aula de informática da FATEC no curso de Logística
 # Gráfico de regressão linear - Sorvete
 <img width="1440" height="839" alt="image" src="https://github.com/user-attachments/assets/2147472b-464d-4926-95a3-f09b516def0a" />
 <img width="876" height="716" alt="image" src="https://github.com/user-attachments/assets/43efc681-2710-43ba-ac66-dc1a99d0d2f3" />
+
+Power BI com bandeiras
+<img width="1911" height="868" alt="image" src="https://github.com/user-attachments/assets/7da98b2c-a79c-47af-a56a-f0e0c7af0de8" />
