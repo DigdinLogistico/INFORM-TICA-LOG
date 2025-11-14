@@ -18,3 +18,6 @@ As tarefas desenvolvidas na aula de informática da FATEC no curso de Logística
 
 # Power BI com bandeiras
 <img width="1911" height="868" alt="image" src="https://github.com/user-attachments/assets/7da98b2c-a79c-47af-a56a-f0e0c7af0de8" />
+
+# Power BI COMEXSTAT
+<img width="1901" height="893" alt="image" src="https://github.com/user-attachments/assets/0a922593-7286-4dda-98fe-11442ae4b7de" />
