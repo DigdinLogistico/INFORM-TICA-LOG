@@ -21,3 +21,7 @@ As tarefas desenvolvidas na aula de informática da FATEC no curso de Logística
 
 # Power BI COMEXSTAT
 <img width="1901" height="893" alt="image" src="https://github.com/user-attachments/assets/0a922593-7286-4dda-98fe-11442ae4b7de" />
+
+# Regressão Linear dos Salários
+<img width="897" height="910" alt="image" src="https://github.com/user-attachments/assets/b09407a9-a278-4da3-acfc-e227db78713c" />
+
