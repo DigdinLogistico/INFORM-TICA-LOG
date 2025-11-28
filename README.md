@@ -25,3 +25,5 @@ As tarefas desenvolvidas na aula de informática da FATEC no curso de Logística
 # Regressão Linear dos Salários
 <img width="897" height="910" alt="image" src="https://github.com/user-attachments/assets/b09407a9-a278-4da3-acfc-e227db78713c" />
 
+# Prova 1º Sem Log Noite
+<img width="1906" height="1079" alt="image" src="https://github.com/user-attachments/assets/8557c406-764f-4c4c-be68-e3d7820b621f" />
